@@ -1,0 +1,11 @@
+{
+  "org": "pydantic",
+  "repo": "pulumi-logfire",
+  "versions": [
+    {
+      "commit": "3b95efd9d9efefd3beeb4aae4f5992e640c7fee6",
+      "tag": "",
+      "parsed_at": "2026-10-11T19:52:03.320625+00:00"
+    }
+  ]
+}
